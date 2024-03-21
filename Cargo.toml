@@ -5,10 +5,10 @@ keywords = ["remote", "build"]
 categories = ["command-line-utilities", "development-tools::build-utils", "development-tools::cargo-plugins"]
 maintenance = { status = "experimental" }
 version = "0.2.0"
-authors = ["Sebastian Geisler <sgeisler@wh2.tu-dresden.de>"]
+authors = ["Sebastian Geisler <sgeisler@wh2.tu-dresden.de>", "CTCL"]
 license = "MIT"
 repository = "https://github.com/sgeisler/cargo-remote"
-edition = "2018"
+edition = "2021"
 readme = "README.md"
 
 [dependencies]
